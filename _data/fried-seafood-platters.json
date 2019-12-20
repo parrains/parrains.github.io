@@ -5,11 +5,6 @@
     "description": ""
   },
   {
-    "name": "Oyster",
-    "price": "$17.95",
-    "description": ""
-  },
-  {
     "name": "Catfish",
     "price": "$15.95",
     "description": ""
@@ -29,6 +24,11 @@
     "price": "$17.95",
     "description": ""
   },
+    {
+    "name": "Oyster",
+    "price": "$18.95",
+    "description": ""
+  },
   {
     "name": "Whole Catfish 2 piece",
     "price": "$15.95",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Whole Shebang",
-    "price": "$23.95",
-    "description": "Stuffed shrimp, catfish, cup of gumbo, shrimp, oysters & alligator.. No substitutions, please."
+    "price": "$24.95",
+    "description": "Stuffed shrimp, catfish, cup of gumbo, shrimp, crawfish tails & alligator.. No substitutions, please."
   }
 ]
