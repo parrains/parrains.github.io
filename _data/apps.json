@@ -1,17 +1,17 @@
 [
   {
     "name": "Oysters Bienville",
-    "price": 10.95,
+    "price": 12.95,
     "description": ""
   },
   {
     "name": "Chargrilled Oysters 1/2",
-    "price": 9.95,
+    "price": 11.95,
     "description": ""
   },
   {
     "name": "Chargrilled Oysters Doz",
-    "price": 17.95,
+    "price": 19.95,
     "description": ""
   },
   {
@@ -61,17 +61,17 @@
   },
   {
     "name": "Crab & Crawfish Au Gratin",
-    "price": 12.50,
+    "price": 13.50,
     "description": ""
   },
   {
     "name": "Oysters on The Half Shell 1/2",
-    "price": 7.50,
+    "price": 9.50,
     "description": ""
   },
   {
     "name": "Oysters on The Half Shell Doz",
-    "price": 11.95,
+    "price": 13.95,
     "description": ""
   }
 ]
