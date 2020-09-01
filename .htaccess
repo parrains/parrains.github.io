@@ -20,4 +20,4 @@ Redirect 301 /Feedback.htm /contact.html
 Redirect 301 /menu/Fried-Seafood-Platters /menu.html
 Redirect 301 /menu/Poboys-and-Sandwiches /menu.html
 Redirect 301 /about-parrains/patio-and-bar /about.html
-
+Redirect 301 /menu.html https://www.toasttab.com/parrains-seafood/v3#!/
