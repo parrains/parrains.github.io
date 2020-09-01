@@ -1,4 +1,4 @@
-Redirect 301 /menu.html https://www.toasttab.com/parrains-seafood/v3#!/
+Redirect /menu.html https://www.toasttab.com/parrains-seafood/v3#!/
 Redirect 301 /drinks http://parrains.com/menu.html
 Redirect 301 /contact http://parrains.com/contact.html
 Redirect 301 /menu http://parrains.com/menu.html
