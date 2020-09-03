@@ -19,9 +19,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Meta redirection for menu page -->
-{% if page.canonical == 'http://parrains.com/menu.html' %}
+{% if page.title == 'Menu' %}
 <meta http-equiv="refresh" content="0;URL='https://www.toasttab.com/parrains-seafood/v3#!/'" />
-{% else %}
+{% endif %}
 
 <!-- SEO Optimization -->
 <meta name="description" content="{{ site.description }}"/>
