@@ -4,3 +4,5 @@ _site
 node_modules
 .publish
 .DS_Store 
+Gemfile
+Gemfile.lock
