@@ -21,7 +21,7 @@
     {% endif %}
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
 
-    {% if page.title == 'Menu' or page.title == 'Appetizers' or page.title == 'Soups and Salads' or page.title == 'Desserts' %}
+    {% if page.title == 'Menu' %}
     <script src="https://promotions.waitrapp.com/widget.js" data-waitr-partner-id="1102" async defer></script>
     {% endif %}
 
@@ -61,21 +61,6 @@
         {% include navigation.html %}
         {% include base-hero.html %}
       </div>
-    {% elsif page.title == 'Appetizers' %}
-        <div class="appetizers">
-          {% include navigation.html %}
-          {% include base-hero.html %}
-        </div>
-    {% elsif page.title == 'Soups and Salads' %}
-        <div class="soups-and-salads">
-          {% include navigation.html %}
-          {% include base-hero.html %}
-        </div>
-    {% elsif page.title == 'Desserts' %}
-        <div class="desserts">
-          {% include navigation.html %}
-          {% include base-hero.html %}
-        </div>
     {% elsif page.title == 'Gallery' %}
       <div class="gallery">
         {% include navigation.html %}
